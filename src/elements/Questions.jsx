@@ -85,7 +85,7 @@ function Questions() {
   };
 
   const getData = () => {
-    fetch("/questions.json", {
+    fetch("./questions.json", {
       headers: {
         "Content-Type": "application/json",
         Accept: "application/json",
