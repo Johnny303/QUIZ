@@ -2154,11 +2154,11 @@
         },
         {
           "text": "erstellt jede Aktiengesellschaft eine Eröffnungs-G&V",
-          "isCorrect": true
+          "isCorrect": false
         },
         {
           "text": "erstellt jede Aktiengesellschaft eine Eröffnungsbilanz",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
       "correctAnswersCount": 1
