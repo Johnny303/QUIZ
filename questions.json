@@ -1525,7 +1525,7 @@
             "answers": [
               {
                 "text": "Einheitskontenrahmen – muss",
-                "isCorrect": true
+                "isCorrect": false
               },
               {
                 "text": "Einheitskontenrahmen – kann",
