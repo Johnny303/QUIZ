@@ -2604,6 +2604,825 @@
         }
       ],
       "correctAnswersCount": 1
-    }
+    },
+    {
+      "question": "Wenn man einen Gegenstand in die Bilanz aufnimmt, wird er",
+      "answers": [
+        {
+          "text": "ins Inventar aufgenommen",
+          "isCorrect": false
+        },
+        {
+          "text": "bewertet",
+          "isCorrect": false
+        },
+        {
+          "text": "verwendet",
+          "isCorrect": false
+        },
+        {
+          "text": "aktiviert",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Wenn ein Unternehmen auf eine neue gekaufte Maschine einen Skontonachlass erhält,",
+      "answers": [
+        {
+          "text": "reduziert dieser die Abschreibungsbasis",
+          "isCorrect": true
+        },
+        {
+          "text": "erhöht dieser die Verbindlichkeiten des Unternehmens",
+          "isCorrect": false
+        },
+        {
+          "text": "wird die Maschine mit einem geringeren Wert in der Bilanz ausgewiesen",
+          "isCorrect": true
+        },
+        {
+          "text": "erhöht dieser den Gewinn in Höhe des Skontos",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Zu den Anschaffungsnebenkosten beim Kauf eines Gebäudes zählen",
+      "answers": [
+        {
+          "text": "Transportkosten",
+          "isCorrect": true
+        },
+        {
+          "text": "Notariatskosten",
+          "isCorrect": false
+        },
+        {
+          "text": "Externe Buchhalter",
+          "isCorrect": false
+        },
+        {
+          "text": "Grunderwerbsteuer",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+    {
+      "question": "Immaterielles Anlagevermögen",
+      "answers": [
+        {
+          "text": "darf in Österreich nur aktiviert werden, wenn es nicht selbst erstellt ist",
+          "isCorrect": true
+        },
+        {
+          "text": "ist nicht abnutzbar",
+          "isCorrect": false
+        },
+        {
+          "text": "wird im Englischen Intangible Asset Value genannt",
+          "isCorrect": false
+        },
+        {
+          "text": "unterliegt dem gemilderten Niederstwertprinzip",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Eine Holding",
+      "answers": [
+        {
+          "text": "ist eine rechtlich definierte Rechtsform",
+          "isCorrect": false
+        },
+        {
+          "text": "ist ein Konzern",
+          "isCorrect": false
+        },
+        {
+          "text": "verwendet die Begriffe Mutter und Tochter",
+          "isCorrect": true
+        },
+        {
+          "text": "integriert zumindest zwei Unternehmen",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Unternehmen A wird von Unternehmen B gekauft. In der neuen Bilanz wird ein Firmenwert ausgewiesen. Dieser",
+      "answers": [
+        {
+          "text": "muss gemäß UGB abgeschrieben werden",
+          "isCorrect": true
+        },
+        {
+          "text": "entspricht dem Marktwert des Unternehmens",
+          "isCorrect": false
+        },
+        {
+          "text": "heißt Goodwill, wenn er positiv ist",
+          "isCorrect": true
+        },
+        {
+          "text": "wird derivativer Firmenwert genannt",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+    {
+      "question": "Wenn Sie als Privatperson Aktien eines Unternehmens",
+      "answers": [
+        {
+          "text": "verkaufen, verringert dies die Liquidität des Unternehmens",
+          "isCorrect": false
+        },
+        {
+          "text": "besitzen, halten Sie risikoreiche Papiere",
+          "isCorrect": true
+        },
+        {
+          "text": "verkaufen, verändert das dies das Eigenkapital des Unternehmens",
+          "isCorrect": false
+        },
+        {
+          "text": "halten, ist der Gegenwert in der Position 'Finanzanlagevermögen' abgebildet",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Der Firmenwert eines Unternehmens",
+      "answers": [
+        {
+          "text": "wird immer als immaterielles Anlagevermögen aktiviert",
+          "isCorrect": false
+        },
+        {
+          "text": "errechnet sich als die Differenz aus Kaufpreis und Substanzwert",
+          "isCorrect": true
+        },
+        {
+          "text": "wird laut UGB über 5 Jahre abgeschrieben",
+          "isCorrect": false
+        },
+        {
+          "text": "kann positiv oder negativ sein",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "GwG",
+      "answers": [
+        {
+          "text": "müssen als wirtschaftliche Einheit betrachtet werden",
+          "isCorrect": true
+        },
+        {
+          "text": "sind nicht im UGB verankert",
+          "isCorrect": false
+        },
+        {
+          "text": "sind zur Zeit 400 € inkl. USt",
+          "isCorrect": true
+        },
+        {
+          "text": "ist die Abkürzung für Geringwertige Wirtschaftsgüter",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+    {
+      "question": "Sie besitzen eine exzellente Kundendatei. Diese aktivieren Sie",
+      "answers": [
+        {
+          "text": "als Umlaufvermögen",
+          "isCorrect": false
+        },
+        {
+          "text": "als Firmenwert",
+          "isCorrect": false
+        },
+        {
+          "text": "gar nicht",
+          "isCorrect": false
+        },
+        {
+          "text": "als immaterielles Anlagevermögen",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Konzerne",
+      "answers": [
+        {
+          "text": "haben eine Holding",
+          "isCorrect": false
+        },
+        {
+          "text": "sind im UGB definiert",
+          "isCorrect": true
+        },
+        {
+          "text": "bilanzieren nach UGB und gem. §243a auch nach IAS / IFRS",
+          "isCorrect": true
+        },
+        {
+          "text": "können Enkel, Töchter und Mütter haben",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 3
+    },
+
+    {
+      "question": "Ein Konzern",
+      "answers": [
+        {
+          "text": "ist gesetzlich mit einer Holding gleichzusetzen",
+          "isCorrect": false
+        },
+        {
+          "text": "umfasst zumindest zwei Unternehmen",
+          "isCorrect": true
+        },
+        {
+          "text": "ist börsennotiert",
+          "isCorrect": false
+        },
+        {
+          "text": "hat zusätzliche Rechnungslegungsvorschriften zu erfüllen",
+          "isCorrect": true
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Wertpapiere auf der Aktivseite der Bilanz",
+      "answers": [
+        {
+          "text": "sind Anlage- oder Umlaufvermögen",
+          "isCorrect": true
+        },
+        {
+          "text": "werden mit den Bilanzkursen bewertet",
+          "isCorrect": true
+        },
+        {
+          "text": "sind Eigenkapital",
+          "isCorrect": false
+        },
+        {
+          "text": "sind ausschließlich Aktien",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    {
+      "question": "Wenn ein Unternehmen eine Konzernstruktur aufweist,",
+      "answers": [
+        {
+          "text": "hat es verbundene Unternehmen, assoziierte Unternehmen und Minderheitsbeteiligungen",
+          "isCorrect": false
+        },
+        {
+          "text": "ist es Konzerntochter",
+          "isCorrect": true
+        },
+        {
+          "text": "muss es eine Konzernbilanz erstellen",
+          "isCorrect": false
+        },
+        {
+          "text": "muss es jedenfalls nach IFRS bilanzieren",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Der Schatten eines alten Baumes auf Firmengelände ",
+      "answers": [
+        {
+          "text": "ist nicht ansetzbar, weil er originären Firmenwert darstellt, auch wenn Nachbarn wegen des Schattens gerne die Bäume kaufen würden",
+          "isCorrect": true
+        },
+        {
+          "text": "stellt einen immateriellen Vermögensgegenstand dar, weil er angenehm kühlt",
+          "isCorrect": false
+        },
+        {
+          "text": "wird in der G&V als Aufwand verbucht, weil der Baum die Solarzellen verdunkelt",
+          "isCorrect": false
+        },
+        {
+          "text": "ist ein immaterieller Ertrag, weil er sich positiv auf die Mitarbeiter und Mitarbeiterinnen auswirkt",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 1
+    },
+    {
+      "question": "Ein Gerät, das im täglichen Gebrauch eines Unternehmens eingesetzt wird, kostet 27,90 €. In der Buchhaltung wird dieses Gerät ",
+      "answers": [
+        {
+          "text": "als GwG abgeschrieben",
+          "isCorrect": true
+        },
+        {
+          "text": "als Anlagevermögen aktiviert",
+          "isCorrect": true
+        },
+        {
+          "text": "als Umlaufvermögen aktiviert",
+          "isCorrect": false
+        },
+        {
+          "text": "als Handelswareneinsatz verbucht",
+          "isCorrect": false
+        }
+      ],
+      "correctAnswersCount": 2
+    },
+    
+      {
+        "question": "Ein Unternehmen kauft unterschiedliche Produkte aus dem Internet. Bei welchen handelt es sich um GwG?",
+        "answers": [
+          {
+            "text": "elektrischer Werkzeugkasten mit 10 Werkzeugen zu je 190 €",
+            "isCorrect": false
+          },
+          {
+            "text": "manueller Werkzeugkasten mit 5 Werkzeugen zu je 190 €",
+            "isCorrect": true
+          },
+          {
+            "text": "4 Reifen zum Weiterverkauf zu je 30 €",
+            "isCorrect": false
+          },
+          {
+            "text": "2 Taschenrechner zu je 20 €",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswersCount": 2
+      },
+      {
+        "question": "GwG",
+        "answers": [
+          {
+            "text": "steht für Geringwertige Wirtschaftsgüter",
+            "isCorrect": true
+          },
+          {
+            "text": "sind europaweit einheitlich geregelt",
+            "isCorrect": false
+          },
+          {
+            "text": "bezeichnen Anlagevermögen in Höhe bis zu 1000 € exkl. USt",
+            "isCorrect": true
+          },
+          {
+            "text": "sind steuerlich nicht absetzbar",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswersCount": 2
+      },
+      {
+        "question": "Wenn ein Spielwarenerzeuger 10 Werkzeuge zu je 190 € für die Produktion von Verpackungsmaterial benötigt, handelt es sich um",
+        "answers": [
+          {
+            "text": "GwG",
+            "isCorrect": false
+          },
+          {
+            "text": "Anlagevermögen",
+            "isCorrect": true
+          },
+          {
+            "text": "Materialaufwand",
+            "isCorrect": false
+          },
+          {
+            "text": "Umlaufvermögen",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswersCount": 1
+      },
+      {
+        "question": "Mobile Fußballtore eines großen Vereins sind",
+        "answers": [
+          {
+            "text": "Eigenkapital, weil sie vom Verein gekauft wurden",
+            "isCorrect": false
+          },
+          {
+            "text": "monetäres Umlaufvermögen, falls sie in bar gekauft wurden",
+            "isCorrect": false
+          },
+          {
+            "text": "Immaterielle Vermögensgegenstände, weil Weltfußballer X bedeutende Tore hineingeschossen hat",
+            "isCorrect": false
+          },
+          {
+            "text": "Sachanlagevermögen, weil sie dauerhaft dem Verein dienen",
+            "isCorrect": true
+          }
+        ],
+        "correctAnswersCount": 1
+      },
+      {
+        "question": "Welches Anlagevermögen ist nicht planmäßig abnutzbar?",
+        "answers": [
+          {
+            "text": "Grundstücke",
+            "isCorrect": true
+          },
+          {
+            "text": "Gebäude",
+            "isCorrect": false
+          },
+          {
+            "text": "Kunstwerke",
+            "isCorrect": true
+          },
+          {
+            "text": "Maschinen",
+            "isCorrect": false
+          }
+        ],
+        "correctAnswersCount": 2
+      },
+      
+        {
+          "question": "Welche Art von Vermögen kann planmäßig abgeschrieben werden?",
+          "answers": [
+            {
+              "text": "Firmenwert",
+              "isCorrect": true
+            },
+            {
+              "text": "Forderungen",
+              "isCorrect": false
+            },
+            {
+              "text": "Betriebs- und Geschäftsausstattung",
+              "isCorrect": true
+            },
+            {
+              "text": "Software",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswersCount": 3
+        },
+        {
+          "question": "Bei welcher Art von Vermögen kommt es zu keiner Folgebewertung?",
+          "answers": [
+            {
+              "text": "Lizenzen",
+              "isCorrect": false
+            },
+            {
+              "text": "Staatsanleihen",
+              "isCorrect": false
+            },
+            {
+              "text": "Forderungen",
+              "isCorrect": false
+            },
+            {
+              "text": "GwG",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswersCount": 1
+        },
+        {
+          "question": "Bei welcher Art von Anlagevermögen können selbst erstellte Anschaffungs- und Herstellungskosten in der Bilanz aktiviert werden?",
+          "answers": [
+            {
+              "text": "Firmenwert",
+              "isCorrect": false
+            },
+            {
+              "text": "Maschinen",
+              "isCorrect": true
+            },
+            {
+              "text": "Gebäude",
+              "isCorrect": true
+            },
+            {
+              "text": "Aktien",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswersCount": 2
+        },
+        {
+          "question": "Der Anlagespiegel",
+          "answers": [
+            {
+              "text": "ist gesetzlich vorgeschrieben",
+              "isCorrect": true
+            },
+            {
+              "text": "beinhaltet historische Werte und Restbuchwerte",
+              "isCorrect": true
+            },
+            {
+              "text": "besteht aus den Fixkosten der Anlagen",
+              "isCorrect": false
+            },
+            {
+              "text": "zeigt die Nutzungsdauern",
+              "isCorrect": false
+            }
+          ],
+          "correctAnswersCount": 2
+        },
+        {
+          "question": "Wenn es nur folgende Positionen gäbe, was wäre die gesetzliche Reihenfolge der Präsentation in der Bilanz?",
+          "answers": [
+            {
+              "text": "Lizenzen – Anleihen – Grundstücke – Maschinen",
+              "isCorrect": false
+            },
+            {
+              "text": "Firmenwert – Gebäude – Betriebs- und Geschäftsausstattung – Anleihen",
+              "isCorrect": true
+            },
+            {
+              "text": "Konzessionen – technische Anlagen – Anteile an verbundenen Unternehmen – Beteiligungen",
+              "isCorrect": true
+            },
+            {
+              "text": "geleistete Anzahlungen auf immaterielles Vermögen – Bauten auf fremden Grund – Maschinen – Ausleihungen",
+              "isCorrect": true
+            }
+          ],
+          "correctAnswersCount": 3
+        },
+        
+          {
+            "question": "Welches Vermögen ist inhaltlich im Firmenwert enthalten, auch wenn es nicht ausgewiesen werden darf?",
+            "answers": [
+              {
+                "text": "Humankapital",
+                "isCorrect": true
+              },
+              {
+                "text": "selbst erstellte Rezepturen in Eigenverwendung",
+                "isCorrect": true
+              },
+              {
+                "text": "selbst erstellte Produkte",
+                "isCorrect": false
+              },
+              {
+                "text": "Vertriebsaufwendungen",
+                "isCorrect": false
+              }
+            ],
+            "correctAnswersCount": 1
+          },
+          {
+            "question": "Wenn ein Unternehmen Firmenwert in seiner Bilanz stehen hat,",
+            "answers": [
+              {
+                "text": "hat es viel in Forschung und Entwicklung investiert",
+                "isCorrect": false
+              },
+              {
+                "text": "hat es ein anderes Unternehmen aufgekauft",
+                "isCorrect": true
+              },
+              {
+                "text": "handelt es sich vielleicht um einen Konzernrechnungslegung",
+                "isCorrect": true
+              },
+              {
+                "text": "verfügt es über gute Kundenlisten",
+                "isCorrect": false
+              }
+            ],
+            "correctAnswersCount": 2
+          },
+          {
+            "question": "Ein negativer Firmenwert",
+            "answers": [
+              {
+                "text": "steht mit einem Minus unter der Position 'Immaterielles Anlagevermögen'",
+                "isCorrect": false
+              },
+              {
+                "text": "signalisiert einen vorteilhaften Unternehmenskauf",
+                "isCorrect": true
+              },
+              {
+                "text": "heißt auch badwill",
+                "isCorrect": true
+              }
+            ],
+            "correctAnswersCount": 2
+          },
+          {
+            "question": "Das Finanzanlagevermögen",
+            "answers": [
+              {
+                "text": "besteht aus Aktien",
+                "isCorrect": false
+              },
+              {
+                "text": "beinhaltet alle monetären Werte des Unternehmens",
+                "isCorrect": false
+              },
+              {
+                "text": "kann außerplanmäßig abgeschrieben werden",
+                "isCorrect": true
+              },
+              {
+                "text": "präsentiert auch langfristige Unternehmensbeteiligungen",
+                "isCorrect": true
+              }
+            ],
+            "correctAnswersCount": 2
+          },
+          {
+            "question": "Der Einstandspreis für einen Motorroller errechnet sich als",
+            "answers": [
+              {
+                "text": "Einkaufspreis netto",
+                "isCorrect": false
+              },
+              {
+                "text": "Einkaufspreis netto + Nebenkosten netto",
+                "isCorrect": true
+              },
+              {
+                "text": "Anschaffungspreis brutto",
+                "isCorrect": false
+              }
+            ],
+            "correctAnswersCount": 1
+          },
+          
+            {
+              "question": "Wenn ein Unternehmen zum Bilanzstichtag Inventur macht, wird:",
+              "answers": [
+                {
+                  "text": "die Anwendung des Festwertverfahrens zielführend sein",
+                  "isCorrect": false
+                },
+                {
+                  "text": "dies, weil es gesetzlich vorgeschrieben ist",
+                  "isCorrect": true
+                },
+                {
+                  "text": "diese an einem einzigen Tag durchgeführt",
+                  "isCorrect": false
+                },
+                {
+                  "text": "diese genau am Bilanzstichtag durchgeführt",
+                  "isCorrect": false
+                }
+              ],
+              "correctAnswersCount": 1
+            },
+            {
+              "question": "Wenn ein Unternehmen 5 Fernseher kauft, kann dies sein:",
+              "answers": [
+                {
+                  "text": "Betriebs- und Geschäftsausstattung",
+                  "isCorrect": true
+                },
+                {
+                  "text": "Umlaufvermögen",
+                  "isCorrect": true
+                },
+                {
+                  "text": "Anlagevermögen",
+                  "isCorrect": true
+                },
+                {
+                  "text": "Materialaufwand",
+                  "isCorrect": false
+                }
+              ],
+              "correctAnswersCount": 3
+            },
+            {
+              "question": "Bei Kalkulation von selbst erstelltem Umlaufvermögen sind in der Buchhaltung jedenfalls zu berücksichtigen:",
+              "answers": [
+                {
+                  "text": "Vertriebsgemeinkosten",
+                  "isCorrect": false
+                },
+                {
+                  "text": "Materialeinzelkosten",
+                  "isCorrect": true
+                },
+                {
+                  "text": "Sonderkosten",
+                  "isCorrect": true
+                },
+                {
+                  "text": "Personaleinzelkosten",
+                  "isCorrect": true
+                }
+              ],
+              "correctAnswersCount": 3
+            },
+            {
+              "question": "Wenn Sie auf eine neue Maschine einen Skontoabzug erhalten, dann:",
+              "answers": [
+                {
+                  "text": "reduziert dieser die Abschreibungsbasis",
+                  "isCorrect": true
+                },
+                {
+                  "text": "wird die Maschine mit einem geringeren Wert in der Bilanz ausgewiesen",
+                  "isCorrect": false
+                },
+                {
+                  "text": "erhöht dieser Ihre Verbindlichkeiten",
+                  "isCorrect": false
+                },
+                {
+                  "text": "erhöht dieser Ihren Aufwand",
+                  "isCorrect": false
+                }
+              ],
+              "correctAnswersCount": 1
+            },
+            {
+              "question": "Welche Art des Rechnungsausgleichs werden Sie als Nachhilfeinstitut bevorzugen:",
+              "answers": [
+                {
+                  "text": "Barzahlung bei Kursbeginn",
+                  "isCorrect": false
+                },
+                {
+                  "text": "Überweisung innerhalb einer definierten Zeitspanne",
+                  "isCorrect": false
+                },
+                {
+                  "text": "Auslandsforderung",
+                  "isCorrect": false
+                },
+                {
+                  "text": "Vorauszahlung bei Anmeldung",
+                  "isCorrect": true
+                }
+              ],
+              "correctAnswersCount": 2
+            },
+            {
+              "question": "Aktive Transitorien:",
+              "answers": [
+                {
+                  "text": "werden unter den Sonstigen Forderungen verbucht",
+                  "isCorrect": false
+                },
+                {
+                  "text": "sind Rechnungsabgrenzungsposten",
+                  "isCorrect": true
+                },
+                {
+                  "text": "ergeben sich aus dem Grundsatz der Periodeneinheit",
+                  "isCorrect": true
+                },
+                {
+                  "text": "werden in der Bilanz meist als ARA abgekürzt",
+                  "isCorrect": true
+                }
+              ],
+              "correctAnswersCount": 3 
+            }
+          
+          
+        
+        
+      
+      
+    
+    
   ]
 }
